@@ -1,0 +1,39 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Naga Vinod",
+      "designation": "Software Engineer",
+      "skills": "PHP,React,Vue JS,Node JS",
+      "domain": "AERO"
+    },
+    {
+      "id": 2,
+      "name": "Pushkar",
+      "designation": "Senior Software Engineer",
+      "skills": "PHP,Perl,React",
+      "domain": "AERO"
+    },
+    {
+      "id": 3,
+      "name": "Anil",
+      "designation": "Senior Software Engineer",
+      "skills": "Java,React",
+      "domain": "AERO"
+    },
+    {
+      "id": 4,
+      "name": "Kartik",
+      "designation": "Software Engineer",
+      "skills": "Python,React",
+      "domain": "AERO"
+    },
+    {
+      "name": "Vamsi",
+      "designation": "SSE",
+      "skills": "PHP",
+      "domain": "AERO",
+      "id": 6
+    }
+  ]
+}

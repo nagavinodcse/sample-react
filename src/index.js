@@ -1,6 +1,9 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
+import '@scuf/common/honeywell/theme.css';
+import './App.css';
+import '@scuf/common/honeywell-compact-dark/theme.css';
+import '@scuf/datatable/honeywell-dark/theme.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 

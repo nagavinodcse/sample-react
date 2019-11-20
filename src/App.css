@@ -1,22 +1,6 @@
-.App {
-  text-align: center;
+.container{
+  width: 1170px;margin: 0 auto;
 }
-
-.App-logo {
-  height: 40vmin;
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #09d3ac;
-}
+.d-flex{display: flex;}
+.mt-3{margin-top: 1rem!important;}.mb-3{margin-bottom: 1rem;}
+.ml-auto{margin-left: auto;}
